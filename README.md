@@ -20,3 +20,14 @@ Xiaohongshu Blog writting dataset is stored in `generation_task/data/redbook`
 
 ## Scripts
 We provide `xxx.sh` to reproduce the results of ProbDiff in each folder. 
+
+## Citation
+If you finding our work interesting or helpful to you, please cite this repo.
+```
+@article{xia2024language,
+      title={Language Models can Evaluate Themselves via Probability Discrepancy}, 
+      author={Tingyu Xia and Bowen Yu and Yuan Wu and Yi Chang and Chang Zhou},
+      journal={arXiv preprint arXiv:2405.10516},
+      year={2024}
+}
+```
