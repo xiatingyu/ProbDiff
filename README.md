@@ -24,10 +24,12 @@ We provide `xxx.sh` to reproduce the results of ProbDiff in each folder.
 ## Citation
 If you finding our work interesting or helpful to you, please cite this repo.
 ```
-@article{xia2024language,
-      title={Language Models can Evaluate Themselves via Probability Discrepancy}, 
-      author={Tingyu Xia and Bowen Yu and Yuan Wu and Yi Chang and Chang Zhou},
-      journal={arXiv preprint arXiv:2405.10516},
-      year={2024}
+@inproceedings{xia-etal-2024-language,
+    title = "Language Models can Evaluate Themselves via Probability Discrepancy",
+    author = "Xia, Tingyu  and Yu, Bowen  and Wu, Yuan  and Chang, Yi  and Zhou, Chang",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    publisher = "Association for Computational Linguistics",
 }
 ```
